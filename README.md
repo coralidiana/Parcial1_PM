@@ -3,7 +3,7 @@
 
 Iniciar Sesion: 
 Carnet de Identidad: 11071219
-Constraseña: corali
+Contraseña: corali
 
 ![Screenshot](img1.png)
 
