@@ -3,3 +3,5 @@
 
 
 2.    Con la Base de datos anterior, adicione una tabla de notas por materia y cuente la cantidad de aprobados por departamento de manera que solo obtenga una sola fila de resultados (con codigo PHP, con codigo SQL)
+
+![Screenshot](img.png)
